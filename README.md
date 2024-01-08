@@ -1,4 +1,4 @@
-# Psycology Pal
+# Psychology Pal
 Your app to help you take patient consultations powered by AI!
 ![](./assets/ai.png)
 ## Description
@@ -10,7 +10,7 @@ An AI assistant that supports in sessions with patients. Among others it will do
 
 Handles different languages with ease, examples below in spanish for instance.  
 All visualized in a streamlit app  
-This showcase is based on a Psycology assistant, but it could be applied to any medical field.
+This showcase is based on a Psychology assistant, but it could be applied to any medical field.
 
 
 ## Requirements
