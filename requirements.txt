@@ -1,0 +1,11 @@
+numpy==1.26.3
+openai==1.6.1
+openai-whisper==20231117
+pandas==2.1.4
+pydub==0.25.1
+python-dotenv==1.0.0
+streamlit==1.29.0
+tiktoken==0.5.2
+torch==2.1.2
+torchaudio==2.1.2
+
